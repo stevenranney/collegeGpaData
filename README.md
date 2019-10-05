@@ -1,6 +1,10 @@
-# Collect MT Fish Data
+# collectCollegeGpaData
 
-Learning repository to scrape fisheries data from the State of Montana and save into AWS database
+Learning repository to scrape GPA data and load into AWS database
+
+## Resources
+
+* 
 
 ## NEWS
 
